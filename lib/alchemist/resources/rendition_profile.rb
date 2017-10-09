@@ -4,6 +4,7 @@ module Alchemist
     field :uuid
     field :height
     field :width
+    field :content_type
     field :created_at
     field :updated_at
 
