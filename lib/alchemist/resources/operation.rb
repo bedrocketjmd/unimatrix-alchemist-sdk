@@ -7,6 +7,7 @@ module Alchemist
     field :progress
     field :rendition_profile_id
     field :video_id
+    field :video_uuid
     field :created_at
     field :updated_at
 
