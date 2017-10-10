@@ -2,6 +2,7 @@ module Alchemist
   class Operation < Base
     field :id
     field :uuid
+    field :realm_uuid
     field :state
     field :progress
     field :rendition_profile_id
