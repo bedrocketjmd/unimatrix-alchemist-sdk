@@ -15,7 +15,7 @@ module Alchemist
     field :height
     field :width
     field :resolution
-    field :bitrate
+    field :bit_rate
     field :level
     field :frame_rate
     field :duration
