@@ -8,6 +8,7 @@ module Alchemist
     field :created_at
     field :updated_at
 
+    field :thumbnail_url
     field :codec
     field :codec_long
     field :pixel_format
