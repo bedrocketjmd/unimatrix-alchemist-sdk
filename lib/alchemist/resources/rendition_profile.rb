@@ -5,6 +5,7 @@ module Alchemist
     field :height
     field :width
     field :content_type
+    field :bit_rate
     field :created_at
     field :updated_at
 
