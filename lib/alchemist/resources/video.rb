@@ -9,6 +9,7 @@ module Alchemist
     field :updated_at
 
     field :thumbnail_url
+    field :picture_url
     field :codec
     field :codec_long
     field :pixel_format
