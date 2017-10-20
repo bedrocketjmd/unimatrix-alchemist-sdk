@@ -5,6 +5,7 @@ module Alchemist
     field :realm_uuid
     field :state
     field :progress
+    field :message
     field :rendition_profile_id
     field :video_id
     field :video_uuid

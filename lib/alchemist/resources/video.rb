@@ -5,11 +5,10 @@ module Alchemist
     field :realm_uuid
     field :name
     field :input_url
+    field :storage_url
     field :created_at
     field :updated_at
 
-    field :thumbnail_url
-    field :picture_url
     field :codec
     field :codec_long
     field :pixel_format
