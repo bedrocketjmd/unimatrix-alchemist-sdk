@@ -12,6 +12,6 @@ module Alchemist
     field :created_at
     field :updated_at
 
-    has_one :rendition
+    has_many :renditions
   end
 end
