@@ -1,5 +1,5 @@
 module Alchemist
-  class Operation < Base
+  class ActivityProxy < Base
     field :id
     field :uuid
     field :realm_uuid

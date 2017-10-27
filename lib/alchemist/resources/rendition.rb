@@ -10,7 +10,7 @@ module Alchemist
     field :url
     field :rendition_profile_id
     field :video_id
-    field :operation_id
+    field :activity_proxy_id
     field :text_id
     field :created_at
     field :updated_at

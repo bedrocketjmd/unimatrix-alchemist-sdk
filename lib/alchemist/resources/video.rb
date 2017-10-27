@@ -32,6 +32,6 @@ module Alchemist
 
     has_many :encoders
     has_many :renditions
-    has_many :operations
+    has_many :activity_proxies
   end
 end
