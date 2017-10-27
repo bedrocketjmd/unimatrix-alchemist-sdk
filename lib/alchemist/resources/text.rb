@@ -1,18 +1,15 @@
 module Alchemist
-  class Operation < Base
+  class Text < Base
     field :id
     field :uuid
     field :realm_uuid
-    field :state
-    field :progress
-    field :message
-    field :rendition_profile_id
+    field :input_url
+    field :storage_url
     field :video_id
-    field :video_uuid
-    field :text_id
     field :created_at
     field :updated_at
 
     has_many :renditions
+    has_many :operations
   end
 end

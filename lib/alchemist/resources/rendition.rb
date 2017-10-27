@@ -11,6 +11,7 @@ module Alchemist
     field :rendition_profile_id
     field :video_id
     field :operation_id
+    field :text_id
     field :created_at
     field :updated_at
   end
