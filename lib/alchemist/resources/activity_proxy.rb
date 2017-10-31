@@ -7,9 +7,11 @@ module Alchemist
     field :progress
     field :message
     field :rendition_profile_id
+    field :rendition_profile_uuid
     field :video_id
     field :video_uuid
     field :text_id
+    field :text_uuid
     field :created_at
     field :updated_at
 
