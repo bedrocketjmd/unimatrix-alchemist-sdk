@@ -30,6 +30,7 @@ require 'alchemist/resources/video_picture_activity_proxy'
 require 'alchemist/resources/video_sprite_activity_proxy'
 require 'alchemist/resources/video_storage_interrogation_activity_proxy'
 require 'alchemist/resources/video_thumbnail_activity_proxy'
+require 'alchemist/resources/text_storage_activity_proxy'
 
 require 'alchemist/resources/rendition'
 require 'alchemist/resources/picture_rendition'
