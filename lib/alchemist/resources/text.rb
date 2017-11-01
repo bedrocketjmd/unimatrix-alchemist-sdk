@@ -8,6 +8,7 @@ module Alchemist
     field :video_id
     field :created_at
     field :updated_at
+    field :content_type
 
     has_many :renditions
     has_many :activity_proxies
