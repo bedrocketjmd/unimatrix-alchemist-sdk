@@ -2,10 +2,16 @@ module Alchemist
   class Rendition < Base
     field :id
     field :uuid
+    field :name
     field :height
     field :width
-    field :output_url
+    field :content_type
+    field :content_length
+    field :url
     field :rendition_profile_id
+    field :video_id
+    field :activity_proxy_id
+    field :text_id
     field :created_at
     field :updated_at
   end
