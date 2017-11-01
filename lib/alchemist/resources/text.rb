@@ -6,6 +6,7 @@ module Alchemist
     field :input_url
     field :storage_url
     field :video_id
+    field :video_uuid
     field :created_at
     field :updated_at
     field :content_type
