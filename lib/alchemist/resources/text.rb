@@ -5,11 +5,12 @@ module Alchemist
     field :realm_uuid
     field :input_url
     field :storage_url
+    field :content_type
+    field :content_length
     field :video_id
     field :video_uuid
     field :created_at
     field :updated_at
-    field :content_type
 
     has_many :renditions
     has_many :activity_proxies

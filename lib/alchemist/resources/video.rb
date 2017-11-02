@@ -6,6 +6,7 @@ module Alchemist
     field :name
     field :input_url
     field :storage_url
+    field :content_length
     field :created_at
     field :updated_at
 
