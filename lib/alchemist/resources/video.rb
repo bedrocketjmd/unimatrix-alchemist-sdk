@@ -9,6 +9,7 @@ module Alchemist
     field :content_length
     field :created_at
     field :updated_at
+    field :legacy_id
 
     field :content_type
     field :codec
