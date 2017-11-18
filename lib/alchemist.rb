@@ -28,7 +28,7 @@ require 'alchemist/resources/activity_proxy'
 require 'alchemist/resources/video_encoding_activity_proxy'
 require 'alchemist/resources/video_picture_activity_proxy'
 require 'alchemist/resources/video_sprite_activity_proxy'
-require 'alchemist/resources/video_storage_interrogation_activity_proxy'
+require 'alchemist/resources/video_storage_interrogation_picture_activity_proxy'
 require 'alchemist/resources/text_storage_activity_proxy'
 
 require 'alchemist/resources/rendition'
